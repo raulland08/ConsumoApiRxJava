@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ConsumoApiRxJava</string>
+    <string name="edit_text">Ingrese id del artículo</string>
+</resources>
